@@ -2,6 +2,8 @@
 
 # ignore lock files
 package-lock.json
+pnpm-lock.yaml
+
 
 # dependencies
 /node_modules
